@@ -15,7 +15,7 @@ A robust Android alarm clock application built with modern technologies. It ensu
 
 ## 🛠️ Technology Stack
 
-- **Language**: [Kotlin](https://kotlinlang.org/)
+- **Languages**: [Kotlin](https://kotlinlang.org/) (Primary), Java (Test infrastructure)
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - **Design System**: [Material Design 3](https://m3.material.io/)
 - **Minimum SDK**: API 24 (Android 7.0)
