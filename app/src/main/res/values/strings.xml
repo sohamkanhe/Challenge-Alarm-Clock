@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm-Clock</string>
+    <string name="alarm_channel_name">Challenge alarms</string>
+    <string name="alarm_channel_description">Full-screen challenge alarms.</string>
+    <string name="alarm_notification_title">Alarm ringing</string>
+    <string name="alarm_notification_text">Complete the active challenge to stop the ringtone.</string>
+</resources>
